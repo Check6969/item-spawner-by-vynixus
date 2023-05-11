@@ -8,7 +8,7 @@ local currentRoomIndex = game:GetService("ReplicatedStorage").GameData.LatestRoo
 
 local item = spawner.createItem({
 
-    Url = "https://github.com/RegularVynixu/Utilities/blob/main/Doors/Item%20Spawner/Assets/Template%20Item.rbxm?raw=true";
+    Url = "https://github.com/RegularVynixu/Utilities/blob/main/Doors/Item%20Spawner/Assets/Template%20Item.rbxm?raw=true"; -- Has to Be a rbxm Rbxasset doesnt work
 
     Spawning = {
 
